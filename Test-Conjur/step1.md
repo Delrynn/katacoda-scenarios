@@ -1,7 +1,9 @@
 ## Test Title
 
 Here's a command:
-`echo "hello world" >> /test.txt`{{action}}
+
+`echo "hello world" >> /root/test.txt`{{action}}
 
 Open the file:
-`/test.xt`{{open}}
+
+`/root/test.txt`{{open}}
