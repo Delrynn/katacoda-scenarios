@@ -24,7 +24,7 @@
     "finish": {
       "text": "finish.md"
     },
-    "assets": { "host01": [ {"file": "/build/001-base.sh", "target": "/root", "chmod":"+x"} ] }
+    "assets": { "host01": [ {"file": "001-base.sh", "target": "/root/", "chmod":"+x"} ] }
   },
   "environment": {
     "uilayout": "editor-terminal"
