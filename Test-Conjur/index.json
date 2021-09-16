@@ -1,6 +1,6 @@
 {
   "title": "Test Tutorial for Conjur",
-  "description": "Test Description Here v0.1",
+  "description": "Test Description Here v0.2",
   "difficulty": "Intermediate",
   "time": "15",
   "details": {
@@ -24,7 +24,7 @@
     "finish": {
       "text": "finish.md"
     },
-    "assets": { "host01": [ {"file": "001-base.sh", "target": "/root/", "chmod":"+x"} ] }
+    "assets": { "host01": [ {"file": "base.sh", "target": "/root/", "chmod":"+x"} ] }
   },
   "environment": {
     "uilayout": "editor-terminal"
