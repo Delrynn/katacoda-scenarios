@@ -1,6 +1,6 @@
 {
   "title": "Test Tutorial for Conjur",
-  "description": "Test Description Here v0.4",
+  "description": "Test Description Here v0.5",
   "difficulty": "Intermediate",
   "time": "15",
   "details": {
@@ -29,6 +29,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "conjur-oss-202107"
+    "imageid": "oss-202107"
   }
 }
