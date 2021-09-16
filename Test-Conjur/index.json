@@ -23,7 +23,8 @@
     },
     "finish": {
       "text": "finish.md"
-    }
+    },
+    "assets": { "host01": [ {"file": "./build/*.sh", "target": "/root"} ] }
   },
   "environment": {
     "uilayout": "editor-terminal"
