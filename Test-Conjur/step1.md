@@ -2,7 +2,7 @@
 
 Here's a command:
 
-`echo "hello world" >> /root/test.txt`{{action}}
+`echo "hello world" >> /root/test.txt`{{execute}}
 
 Open the file:
 
