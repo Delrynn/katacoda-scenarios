@@ -23,8 +23,7 @@
     },
     "finish": {
       "text": "finish.md"
-    },
-    "assets": { "host01": [ {"file": "base.sh", "target": "/root/", "chmod":"+x"} ] }
+    }
   },
   "environment": {
     "uilayout": "editor-terminal"
